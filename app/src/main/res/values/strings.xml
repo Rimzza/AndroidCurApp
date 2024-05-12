@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Currence Rate</string>
+    <string name="app_name">Currency Rate</string>
     <string name="text_for_cur">Введите число</string>
     <string name="default_value">1</string>
 </resources>

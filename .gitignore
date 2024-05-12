@@ -8,7 +8,6 @@ test/
 app/src/androidTest/
 app/src/test/
 /captures
-gradle.properties
 gradlew
 gradlew.bat
 .externalNativeBuild
